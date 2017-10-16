@@ -1,0 +1,9 @@
+Java Script Codes
+Geolocation
+determine the browswe location on mab and prints the lattude and the longtude .
+
+line on map 
+draw line between two cities on map and show the road proprties .
+
+Distance 
+Calculate the distance between any 2 cities on map and determine time by car and the distance in KMs .
